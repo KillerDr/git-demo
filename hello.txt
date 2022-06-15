@@ -4,4 +4,5 @@ hello loko! hello riking! master test
 hello loko! hello riking! hot-fix test
 github上面修改一次
 22222 by lhc
-测试 ssh免密登录
+测试 ssh免密登录pull
+测试ssh免密push
